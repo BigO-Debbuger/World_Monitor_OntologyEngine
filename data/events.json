@@ -1,0 +1,407 @@
+[
+  {
+    "id": 1,
+    "title": "Russia Cuts Natural Gas Supply to Europe",
+    "description": "Russia announced a 40% reduction in natural gas exports to the EU, citing sanctions-related disputes. European nations scramble for alternative energy sources, driving up global LNG prices.",
+    "country": "Russia",
+    "latitude": 60.0,
+    "longitude": 50.0,
+    "category": "energy"
+  },
+  {
+    "id": 2,
+    "title": "China Imposes Rare Earth Export Controls",
+    "description": "China enforced new export restrictions on critical rare earth minerals used in semiconductors and defense equipment, affecting global supply chains.",
+    "country": "China",
+    "latitude": 39.9042,
+    "longitude": 116.4074,
+    "category": "trade"
+  },
+  {
+    "id": 3,
+    "title": "US Deploys Carrier Strike Group to South China Sea",
+    "description": "The US Navy deployed the USS Ronald Reagan carrier strike group to the South China Sea amid rising tensions over Taiwan, increasing military posturing in the region.",
+    "country": "South China Sea (US)",
+    "latitude": 12.5,
+    "longitude": 114.0,
+    "category": "defense"
+  },
+  {
+    "id": 4,
+    "title": "India-Australia Critical Minerals Agreement",
+    "description": "India and Australia signed a landmark agreement for the supply of lithium, cobalt, and other critical minerals essential for India's EV and renewable energy sector.",
+    "country": "Australia",
+    "latitude": -25.2744,
+    "longitude": 133.7751,
+    "category": "trade"
+  },
+  {
+    "id": 5,
+    "title": "Pakistan Political Crisis Deepens",
+    "description": "Mass protests erupted in Islamabad following the arrest of opposition leaders. The military deployed additional troops, raising concerns about regional stability.",
+    "country": "Pakistan",
+    "latitude": 33.6844,
+    "longitude": 73.0479,
+    "category": "defense"
+  },
+  {
+    "id": 6,
+    "title": "OPEC+ Announces Production Cut",
+    "description": "OPEC+ members agreed to cut oil production by 2 million barrels per day, sending crude oil prices above $100/barrel and impacting India's import bill significantly.",
+    "country": "Saudi Arabia",
+    "latitude": 24.7136,
+    "longitude": 46.6753,
+    "category": "energy"
+  },
+  {
+    "id": 7,
+    "title": "Amazon Rainforest Fires Reach Record Levels",
+    "description": "Deforestation-driven fires in the Amazon reached a 15-year high, raising global climate concerns and intensifying calls for international carbon regulations.",
+    "country": "Brazil",
+    "latitude": -3.4653,
+    "longitude": -62.2159,
+    "category": "climate"
+  },
+  {
+    "id": 8,
+    "title": "EU Carbon Border Tax Takes Effect",
+    "description": "The European Union officially implemented its Carbon Border Adjustment Mechanism (CBAM), imposing tariffs on carbon-intensive imports from developing nations including India.",
+    "country": "Belgium",
+    "latitude": 50.8503,
+    "longitude": 4.3517,
+    "category": "trade"
+  },
+  {
+    "id": 9,
+    "title": "North Korea Tests Hypersonic Missile",
+    "description": "North Korea successfully tested a new hypersonic glide vehicle capable of evading missile defense systems, raising alarm across the Indo-Pacific region.",
+    "country": "North Korea",
+    "latitude": 39.0392,
+    "longitude": 125.7625,
+    "category": "defense"
+  },
+  {
+    "id": 10,
+    "title": "India Launches Gaganyaan Crew Module Test",
+    "description": "ISRO conducted a successful uncrewed test flight of the Gaganyaan crew module, advancing India's human spaceflight program and boosting its aerospace industry.",
+    "country": "India",
+    "latitude": 13.7199,
+    "longitude": 80.2304,
+    "category": "defense"
+  },
+  {
+    "id": 11,
+    "title": "Turkey Blocks NATO Expansion Talks",
+    "description": "Turkey vetoed NATO membership discussions for two candidate nations, demanding concessions on Kurdish militant extraditions and arms embargo removals.",
+    "country": "Turkey",
+    "latitude": 39.9334,
+    "longitude": 32.8597,
+    "category": "defense"
+  },
+  {
+    "id": 12,
+    "title": "Japan Invests $50B in Semiconductor Fabs",
+    "description": "Japan announced a massive $50 billion investment in domestic semiconductor manufacturing, aiming to reduce dependency on Taiwanese chip production.",
+    "country": "Japan",
+    "latitude": 35.6762,
+    "longitude": 139.6503,
+    "category": "trade"
+  },
+  {
+    "id": 13,
+    "title": "Arctic Ice Sheet Collapse Accelerates",
+    "description": "NASA satellite data revealed the Arctic ice sheet is melting 3x faster than projected, threatening to raise sea levels by 1 meter by 2060.",
+    "country": "Norway",
+    "latitude": 78.2,
+    "longitude": 15.6,
+    "category": "climate"
+  },
+  {
+    "id": 14,
+    "title": "Iran Nuclear Deal Negotiations Stall",
+    "description": "Talks to revive the JCPOA collapsed after Iran refused IAEA inspections at undeclared sites, increasing the risk of a nuclear-armed Iran.",
+    "country": "Iran",
+    "latitude": 35.6892,
+    "longitude": 51.3890,
+    "category": "defense"
+  },
+  {
+    "id": 15,
+    "title": "India-Canada Diplomatic Standoff Escalates",
+    "description": "India expelled Canadian diplomats after allegations of foreign interference, severely straining bilateral trade and immigration relations.",
+    "country": "Canada",
+    "latitude": 45.4215,
+    "longitude": -75.6972,
+    "category": "defense"
+  },
+  {
+    "id": 16,
+    "title": "Global Wheat Supply Disrupted by Ukraine Conflict",
+    "description": "Continued conflict in Ukraine has disrupted Black Sea grain exports, threatening food security in Africa, Middle East, and South Asia.",
+    "country": "Ukraine",
+    "latitude": 50.4501,
+    "longitude": 30.5234,
+    "category": "trade"
+  },
+  {
+    "id": 17,
+    "title": "Bangladesh Garment Worker Strikes",
+    "description": "Over 500,000 garment workers in Bangladesh went on strike demanding wage increases, disrupting global textile supply chains and creating opportunities for Indian textile exporters.",
+    "country": "Bangladesh",
+    "latitude": 23.8103,
+    "longitude": 90.4125,
+    "category": "trade"
+  },
+  {
+    "id": 18,
+    "title": "South Africa Grid Collapse Worsens",
+    "description": "South Africa's power utility Eskom reported Stage 6 load shedding as multiple coal plants failed, crippling industrial output and mining operations.",
+    "country": "South Africa",
+    "latitude": -29.0,
+    "longitude": 26.0,
+    "category": "energy"
+  },
+  {
+    "id": 19,
+    "title": "US-India Defense Technology Agreement",
+    "description": "The US and India signed a landmark defense technology sharing agreement covering jet engine co-production, drone technology, and AI-powered defense systems.",
+    "country": "United States",
+    "latitude": 38.9072,
+    "longitude": -77.0369,
+    "category": "defense"
+  },
+  {
+    "id": 20,
+    "title": "Indonesia Bans Nickel Ore Exports",
+    "description": "Indonesia, the world's largest nickel producer, banned raw nickel ore exports to force domestic processing, affecting global EV battery supply chains.",
+    "country": "Indonesia",
+    "latitude": -6.2088,
+    "longitude": 106.8456,
+    "category": "trade"
+  },
+  {
+    "id": 21,
+    "title": "Maldives Shifts Alignment Toward China",
+    "description": "The Maldives signed a comprehensive economic partnership with China, including a naval facility agreement, raising alarm bells in New Delhi about encirclement strategy.",
+    "country": "Maldives",
+    "latitude": 4.1755,
+    "longitude": 73.5093,
+    "category": "defense"
+  },
+  {
+    "id": 22,
+    "title": "Germany Shuts Down Last Nuclear Plants",
+    "description": "Germany completed its nuclear phase-out, shutting down its last three reactors while increasing natural gas imports, raising energy security concerns.",
+    "country": "Germany",
+    "latitude": 52.5200,
+    "longitude": 13.4050,
+    "category": "energy"
+  },
+  {
+    "id": 23,
+    "title": "India Surpasses China in Population",
+    "description": "UN data confirmed India as the world's most populous nation at 1.43 billion, raising both demographic dividend opportunities and resource strain concerns.",
+    "country": "India",
+    "latitude": 28.6139,
+    "longitude": 77.2090,
+    "category": "trade"
+  },
+  {
+    "id": 24,
+    "title": "Typhoon Devastates Philippines Infrastructure",
+    "description": "Super Typhoon Mawar struck the Philippines, causing $15 billion in damage and displacing 3 million people, highlighting climate vulnerability in Southeast Asia.",
+    "country": "Philippines",
+    "latitude": 14.5995,
+    "longitude": 120.9842,
+    "category": "climate"
+  },
+  {
+    "id": 25,
+    "title": "Sri Lanka Defaults on Chinese Debt",
+    "description": "Sri Lanka formally defaulted on $7.4 billion in Chinese infrastructure loans, reigniting global debate about Belt and Road Initiative debt traps.",
+    "country": "Sri Lanka",
+    "latitude": 6.9271,
+    "longitude": 79.8612,
+    "category": "trade"
+  },
+  {
+    "id": 26,
+    "title": "Israel-Saudi Arabia Normalization Talks",
+    "description": "Secret diplomatic channels between Israel and Saudi Arabia advanced toward normalization, potentially reshaping Middle East alliances and energy geopolitics.",
+    "country": "Israel",
+    "latitude": 31.7683,
+    "longitude": 35.2137,
+    "category": "defense"
+  },
+  {
+    "id": 27,
+    "title": "India Achieves Nuclear Fusion Milestone",
+    "description": "India's SST-2 tokamak achieved sustained plasma containment for 120 seconds, marking a significant step toward clean fusion energy development.",
+    "country": "India",
+    "latitude": 18.5204,
+    "longitude": 73.8567,
+    "category": "energy"
+  },
+  {
+    "id": 28,
+    "title": "Myanmar Civil War Intensifies",
+    "description": "Resistance forces captured key border towns in Myanmar, forcing 200,000 refugees toward India's northeastern states and Bangladesh.",
+    "country": "Myanmar",
+    "latitude": 19.7633,
+    "longitude": 96.0785,
+    "category": "defense"
+  },
+  {
+    "id": 29,
+    "title": "Global Semiconductor Shortage Returns",
+    "description": "A fire at a major TSMC facility in Taiwan and geopolitical tensions triggered a new global chip shortage, affecting automotive and electronics industries.",
+    "country": "Taiwan",
+    "latitude": 25.0330,
+    "longitude": 121.5654,
+    "category": "trade"
+  },
+  {
+    "id": 30,
+    "title": "UK Signs Post-Brexit India FTA",
+    "description": "The UK and India finalized a comprehensive Free Trade Agreement covering IT services, pharmaceuticals, and agricultural products with significant tariff reductions.",
+    "country": "United Kingdom",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "category": "trade"
+  },
+  {
+    "id": 31,
+    "title": "Ethiopia Dam Dispute Escalates",
+    "description": "Ethiopia began second-phase filling of GERD dam without agreement with Egypt and Sudan, raising fears of military conflict over Nile water rights.",
+    "country": "Ethiopia",
+    "latitude": 9.0054,
+    "longitude": 38.7636,
+    "category": "climate"
+  },
+  {
+    "id": 32,
+    "title": "Venezuela Oil Sanctions Partially Lifted",
+    "description": "The US Treasury issued temporary licenses allowing Chevron to resume oil operations in Venezuela, potentially increasing global crude supply.",
+    "country": "Venezuela",
+    "latitude": 10.4806,
+    "longitude": -66.9036,
+    "category": "energy"
+  },
+  {
+    "id": 33,
+    "title": "India-China LAC Standoff Continues",
+    "description": "Indian and Chinese troops remained in a standoff at Depsang Plains in Ladakh despite multiple rounds of diplomatic talks, with both sides reinforcing positions.",
+    "country": "India",
+    "latitude": 34.5,
+    "longitude": 77.8,
+    "category": "defense"
+  },
+  {
+    "id": 34,
+    "title": "Australia Submarine Deal Advances",
+    "description": "Australia signed construction contracts for AUKUS nuclear-powered submarines with the US and UK, redefining Indo-Pacific naval power dynamics.",
+    "country": "Australia",
+    "latitude": -34.9285,
+    "longitude": 138.6007,
+    "category": "defense"
+  },
+  {
+    "id": 35,
+    "title": "Greenland Ice Melt Triggers Ocean Current Shift",
+    "description": "Accelerating Greenland ice melt began disrupting the Atlantic Meridional Overturning Circulation, threatening monsoon patterns in South Asia.",
+    "country": "Greenland",
+    "latitude": 71.7069,
+    "longitude": -42.6043,
+    "category": "climate"
+  },
+  {
+    "id": 36,
+    "title": "Nigeria Oil Pipeline Sabotage",
+    "description": "Militant groups sabotaged major oil pipelines in the Niger Delta, cutting Nigeria's output by 500,000 barrels/day and tightening global crude markets.",
+    "country": "Nigeria",
+    "latitude": 5.3,
+    "longitude": 6.5,
+    "category": "energy"
+  },
+  {
+    "id": 37,
+    "title": "Singapore Becomes Asia's AI Hub",
+    "description": "Singapore launched a $10 billion AI investment fund and relaxed immigration rules for tech talent, positioning itself as the AI capital of Asia.",
+    "country": "Singapore",
+    "latitude": 1.3521,
+    "longitude": 103.8198,
+    "category": "trade"
+  },
+  {
+    "id": 38,
+    "title": "Poland Accelerates Military Modernization",
+    "description": "Poland signed a $20 billion deal for Korean K2 tanks and FA-50 jets, becoming NATO's most heavily armed frontline state against Russia.",
+    "country": "Poland",
+    "latitude": 52.2297,
+    "longitude": 21.0122,
+    "category": "defense"
+  },
+  {
+    "id": 39,
+    "title": "India Launches Digital Rupee for Cross-Border Trade",
+    "description": "The RBI launched a pilot program for digital rupee-based trade settlements with UAE, Saudi Arabia, and Singapore, reducing dollar dependency.",
+    "country": "India",
+    "latitude": 19.0760,
+    "longitude": 72.8777,
+    "category": "trade"
+  },
+  {
+    "id": 40,
+    "title": "Coral Reef Bleaching Event Hits Great Barrier Reef",
+    "description": "The worst-ever mass coral bleaching event struck the Great Barrier Reef, with 80% of reefs showing severe bleaching, signaling catastrophic ocean warming.",
+    "country": "Australia",
+    "latitude": -18.2861,
+    "longitude": 147.7,
+    "category": "climate"
+  },
+  {
+    "id": 41,
+    "title": "Egypt-India Suez Canal Cooperation Pact",
+    "description": "India and Egypt signed a strategic agreement on Suez Canal logistics, ensuring priority passage for Indian cargo vessels and reducing transit costs.",
+    "country": "Egypt",
+    "latitude": 30.8025,
+    "longitude": 32.3375,
+    "category": "trade"
+  },
+  {
+    "id": 42,
+    "title": "Houthi Attacks Disrupt Red Sea Shipping",
+    "description": "Houthi rebels intensified missile attacks on commercial shipping in the Red Sea and Bab el-Mandeb strait, forcing major carriers to reroute via the Cape of Good Hope.",
+    "country": "Yemen",
+    "latitude": 13.5,
+    "longitude": 43.5,
+    "category": "defense"
+  },
+  {
+    "id": 43,
+    "title": "Kazakhstan Uranium Supply Crisis",
+    "description": "Political instability in Kazakhstan disrupted uranium production from the world's largest producer, affecting nuclear fuel supplies for 20+ countries.",
+    "country": "Kazakhstan",
+    "latitude": 51.1694,
+    "longitude": 71.4491,
+    "category": "energy"
+  },
+  {
+    "id": 44,
+    "title": "India-France Rafale Marine Deal",
+    "description": "India finalized a deal for 26 Rafale Marine fighter jets for its aircraft carriers, strengthening the strategic defense partnership with France.",
+    "country": "France",
+    "latitude": 48.8566,
+    "longitude": 2.3522,
+    "category": "defense"
+  },
+  {
+    "id": 45,
+    "title": "Antarctic Ozone Hole Expands Unexpectedly",
+    "description": "Scientists detected rapid expansion of the Antarctic ozone hole attributed to volcanic aerosols and CFC remnants, threatening UV radiation exposure in the Southern Hemisphere.",
+    "country": "Antarctica",
+    "latitude": -75.0,
+    "longitude": 0.0,
+    "category": "climate"
+  }
+]

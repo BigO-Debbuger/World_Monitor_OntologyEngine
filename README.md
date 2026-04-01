@@ -1,8 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Netra AI - World Monitor Ontology Engine
 
-## Getting Started
+Netra AI is a high-performance, dynamic geopolitical intelligence dashboard and command center. It provides real-time event context, scenario simulation, and knowledge graph mapping to visualize geopolitical events and their localized impacts, with a specific focus on India.
 
-First, run the development server:
+## 🌟 Key Features
+
+- **Interactive Geopolitical Dashboard**: Visualize global events and their connections to Indian territories using a custom, high-contrast CartoDB Dark Matter map.
+- **AI-Driven Scenario Engine**: Intelligent scenario simulation utilizing a multi-tiered fallback strategy (Google Gemini → Grok → Deterministic Engine) for maximum reliability and uptime.
+- **Dynamic Knowledge Graph**: Real-time intelligent entity resolution and relationship mapping using D3 Force Graph.
+- **Live Intelligence Feeds**: Integrated 24/7 situational intelligence news streams (e.g., NDTV, DD News) with direct sound controls.
+- **Indian States Impact Corridor**: Dedicated severity-coded panels highlighting localized effects, impact assessments, and strategic responses.
+
+## 🚀 Tech Stack
+
+- **Framework**: [Next.js](https://nextjs.org/) (App Router)
+- **UI & Styling**: React, Tailwind CSS 4, Lucide React
+- **Mapping & Visualization**: Leaflet, React Leaflet, React Force Graph 2D, D3.js
+- **AI Integration**: Google Generative AI SDK, OpenAI API
+
+## 🛠️ Getting Started
+
+First, clone the repository and install dependencies:
+
+```bash
+npm install
+# or
+yarn install
+# or
+pnpm install
+```
+
+### Environment Variables
+
+Create a `.env.local` file in the root directory and add your API keys. Make sure to **never commit this file** (it is ignored by default via `.gitignore`).
+
+```env
+# Example .env.local
+GOOGLE_GENERATIVE_AI_API_KEY=your_gemini_api_key_here
+GROK_API_KEY=your_grok_api_key_here
+```
+
+### Running the Development Server
+
+Start the development server:
 
 ```bash
 npm run dev
@@ -10,27 +49,18 @@ npm run dev
 yarn dev
 # or
 pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the Netra AI dashboard in action.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🔒 Security
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+All sensitive keys and environment variables are safely hidden and excluded from source control. Always refer to `.env.local` for local configurations.
 
-## Learn More
+## 🤝 Contribution
 
-To learn more about Next.js, take a look at the following resources:
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/BigO-Debbuger/World_Monitor_OntologyEngine/issues) if you want to contribute.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📜 License
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project is licensed under the MIT License.
